@@ -1,0 +1,15 @@
+/* Основна зелено-жовта кольорова схема */
+:root {
+    --color-dark-green: #38761d;
+    --color-medium-green: #6aa84f;
+    --color-gold-yellow: #f1c232;
+    --color-light-yellow: #fff2cc;
+    --color-background: #f5f5dc;
+    --color-text: #1c370b;
+}
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-text);
+}
+/* (скорочено, повний CSS у вашому повідомленні) */
